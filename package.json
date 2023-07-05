@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Instalación:\r ```bash\r npm install\r ```",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
